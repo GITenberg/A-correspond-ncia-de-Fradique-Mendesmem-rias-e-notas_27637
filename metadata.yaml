@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
     - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27637#A-correspond-ncia-de-Fradique-Mendesmem-rias-e-notas
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2008-12-27'
 gutenberg_type: Text
